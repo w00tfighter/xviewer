@@ -18,15 +18,15 @@ msgstr ""
 "http://bugzilla.gnome.org/enter_bug.cgi?product=xviewer&keywords=I18N+L10N&co"
 "mponent=general\n"
 "POT-Creation-Date: 2025-04-16 17:14+0100\n"
-"PO-Revision-Date: 2025-11-12 06:27+0000\n"
+"PO-Revision-Date: 2025-12-13 07:24+0000\n"
 "Last-Translator: kmyyfz8q <Unknown>\n"
 "Language-Team: Japanese <gnome-translation@gnome.gr.jp>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2025-12-12 13:30+0000\n"
-"X-Generator: Launchpad (build 379e22b8475e3402088a4cdb4a6e7936a4d28414)\n"
+"X-Launchpad-Export-Date: 2026-01-08 15:41+0000\n"
+"X-Generator: Launchpad (build 99c00f518760bdd50fc6e353e7736d2fff8fba4a)\n"
 "Language: ja\n"
 
 #: ../src/resources/xviewer-app-menu.xml.h:1 ../src/xviewer-window.c:4242
@@ -476,7 +476,7 @@ msgstr "画像 '%s' を保存できませんでした。"
 #: ../src/xviewer-error-message-area.c:256
 #, c-format
 msgid "No images found in '%s'."
-msgstr "'%s' には画像が見つかりませんでした。"
+msgstr "'%s' には画像が見つかりません。"
 
 #: ../src/xviewer-error-message-area.c:263
 msgid "The given locations contain no images."

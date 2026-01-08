@@ -12,15 +12,15 @@ msgstr ""
 "http://bugzilla.gnome.org/enter_bug.cgi?product=xviewer&keywords=I18N+L10N&co"
 "mponent=general\n"
 "POT-Creation-Date: 2025-04-16 17:14+0100\n"
-"PO-Revision-Date: 2025-09-09 15:15+0000\n"
+"PO-Revision-Date: 2025-12-25 15:18+0000\n"
 "Last-Translator: Klavs Petersons <Unknown>\n"
 "Language-Team: Latvian <lata-l10n@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2025-12-12 13:30+0000\n"
-"X-Generator: Launchpad (build 379e22b8475e3402088a4cdb4a6e7936a4d28414)\n"
+"X-Launchpad-Export-Date: 2026-01-08 15:41+0000\n"
+"X-Generator: Launchpad (build 99c00f518760bdd50fc6e353e7736d2fff8fba4a)\n"
 "Language: lv\n"
 
 #: ../src/resources/xviewer-app-menu.xml.h:1 ../src/xviewer-window.c:4242
@@ -45,7 +45,7 @@ msgstr "Sānu _panelis"
 
 #: ../src/resources/xviewer-app-menu.xml.h:6 ../src/xviewer-window.c:4255
 msgid "Prefere_nces"
-msgstr "Iestatīju_mi"
+msgstr "_Iestatījumi"
 
 #: ../src/resources/xviewer-app-menu.xml.h:7
 #: ../src/resources/xviewer-preferences-dialog.ui.h:2
@@ -55,7 +55,7 @@ msgstr "_Palīdzība"
 
 #: ../src/resources/xviewer-app-menu.xml.h:8 ../src/xviewer-window.c:4261
 msgid "_About"
-msgstr "P_ar"
+msgstr "_Par"
 
 #: ../src/resources/xviewer-app-menu.xml.h:9
 msgid "_Quit"
@@ -64,11 +64,11 @@ msgstr "_Iziet"
 #: ../src/resources/xviewer-image-properties-dialog.ui.h:1
 #: ../src/xviewer-window.c:5383
 msgid "Image Properties"
-msgstr "Attēla rekvizīti"
+msgstr "Attēla īpašības"
 
 #: ../src/resources/xviewer-image-properties-dialog.ui.h:2
 msgid "_Previous"
-msgstr "Ie_priekšējais"
+msgstr "_Iepriekšējais"
 
 #: ../src/resources/xviewer-image-properties-dialog.ui.h:3
 msgid "_Next"
@@ -78,7 +78,7 @@ msgstr "_Nākamais"
 #: ../src/resources/xviewer-preferences-dialog.ui.h:3
 #: ../src/xviewer-window.c:4252
 msgid "_Close"
-msgstr "Aiz_vērt"
+msgstr "_Aizvērt"
 
 #: ../src/resources/xviewer-image-properties-dialog.ui.h:5
 #: ../src/xviewer-metadata-sidebar.c:497
@@ -147,12 +147,12 @@ msgstr "Gaismas mērīšanas režīms:"
 #: ../src/resources/xviewer-image-properties-dialog.ui.h:18
 #: ../src/xviewer-metadata-sidebar.c:550
 msgid "Camera Model:"
-msgstr "Fotoaparāta modelis:"
+msgstr "Kameras modelis:"
 
 #: ../src/resources/xviewer-image-properties-dialog.ui.h:19
 #: ../src/xviewer-metadata-sidebar.c:552
 msgid "Date/Time:"
-msgstr "Datums / laiks:"
+msgstr "Datums/laiks:"
 
 #: ../src/resources/xviewer-image-properties-dialog.ui.h:20
 #: ../src/xviewer-metadata-sidebar.c:557
@@ -182,7 +182,7 @@ msgstr "Autortiesības:"
 #: ../src/resources/xviewer-image-properties-dialog.ui.h:25
 #: ../src/xviewer-metadata-sidebar.c:571
 msgid "Details"
-msgstr "Sīkāka informācija"
+msgstr "Detalizēta informācija"
 
 #: ../src/resources/xviewer-image-properties-dialog.ui.h:26
 #: ../src/xviewer-metadata-sidebar.c:528
@@ -200,18 +200,18 @@ msgstr "Saglabāt kā"
 #: ../src/xviewer-window.c:3472 ../src/xviewer-window.c:3476
 #: ../src/xviewer-window.c:3743
 msgid "_Cancel"
-msgstr "At_celt"
+msgstr "_Atcelt"
 
 #: ../src/resources/xviewer-multiple-save-as-dialog.ui.h:3
 #: ../src/xviewer-close-confirmation-dialog.c:184
 #| msgid "Save As"
 msgid "Save _As"
-msgstr "S_aglabāt kā"
+msgstr "Saglabāt _kā"
 
 #: ../src/resources/xviewer-multiple-save-as-dialog.ui.h:5
 #, no-c-format
 msgid "<b>%f:</b> original filename"
-msgstr "<b>%f:</b> sākotnējais datnes nosaukums"
+msgstr "<b>%f:</b> sākotnējais faila nosaukums"
 
 #: ../src/resources/xviewer-multiple-save-as-dialog.ui.h:7
 #, no-c-format
@@ -221,7 +221,7 @@ msgstr "<b>%n:</b> skaitītājs"
 #: ../src/resources/xviewer-multiple-save-as-dialog.ui.h:8
 #| msgid "Filename format:"
 msgid "_Filename format:"
-msgstr "Datnes nosaukuma _formāts:"
+msgstr "_Faila nosaukuma formāts:"
 
 #: ../src/resources/xviewer-multiple-save-as-dialog.ui.h:9
 #| msgid "Destination folder:"
@@ -252,15 +252,15 @@ msgstr "Opcijas"
 
 #: ../src/resources/xviewer-multiple-save-as-dialog.ui.h:15
 msgid "Rename from:"
-msgstr "Pārsaukt no:"
+msgstr "Pārdēvēt no:"
 
 #: ../src/resources/xviewer-multiple-save-as-dialog.ui.h:16
 msgid "To:"
-msgstr "Par:"
+msgstr "Uz:"
 
 #: ../src/resources/xviewer-multiple-save-as-dialog.ui.h:17
 msgid "File Name Preview"
-msgstr "Datnes nosaukuma priekšskatījums"
+msgstr "Faila nosaukuma priekšskatījums"
 
 #: ../src/resources/xviewer-preferences-dialog.ui.h:1
 msgid "Preferences"
@@ -268,15 +268,15 @@ msgstr "Iestatījumi"
 
 #: ../src/resources/xviewer-preferences-dialog.ui.h:4
 msgid "Image Enhancements"
-msgstr "Attēlu uzlabojumi"
+msgstr "Attēla uzlabojumi"
 
 #: ../src/resources/xviewer-preferences-dialog.ui.h:5
 msgid "Smooth images when zoomed _out"
-msgstr "Nogludināt attēlus tālin_ot"
+msgstr "Nogludināt attēlus _tālinot"
 
 #: ../src/resources/xviewer-preferences-dialog.ui.h:6
 msgid "Smooth images when zoomed _in"
-msgstr "Nogludināt attēlus tuv_inot"
+msgstr "Nogludināt attēlus _tuvinot"
 
 #: ../src/resources/xviewer-preferences-dialog.ui.h:7
 msgid "_Automatic orientation"
@@ -312,7 +312,7 @@ msgstr "Rādīt šo _krāsu:"
 
 #: ../src/resources/xviewer-preferences-dialog.ui.h:15
 msgid "Color for Transparent Areas"
-msgstr "Caurspīdīgo apgabalu krāsa"
+msgstr "Caurspīdīgo zonu krāsa"
 
 #: ../src/resources/xviewer-preferences-dialog.ui.h:16
 msgid "As _background"
@@ -328,7 +328,7 @@ msgstr "Attēla palielinājums"
 
 #: ../src/resources/xviewer-preferences-dialog.ui.h:19
 msgid "E_xpand images to fit screen"
-msgstr "I_zplest attēlu, lai aizņemtu ekrānu"
+msgstr "_Paplašināt attēlus, lai tie pielāgotos ekrānam"
 
 #: ../src/resources/xviewer-preferences-dialog.ui.h:20
 msgid "Sequence"
@@ -337,7 +337,7 @@ msgstr "Secība"
 #. I18N: This sentence will be displayed above a horizonzal scale to select a number of seconds in xviewer
 #: ../src/resources/xviewer-preferences-dialog.ui.h:22
 msgid "_Time between images:"
-msgstr "Laiks s_tarp attēliem:"
+msgstr "_Laiks starp attēliem:"
 
 #: ../src/resources/xviewer-preferences-dialog.ui.h:23
 msgid "_Loop sequence"
@@ -345,7 +345,7 @@ msgstr "Automātiski _atkārtot"
 
 #: ../src/resources/xviewer-preferences-dialog.ui.h:24
 msgid "Control"
-msgstr "Kontrole"
+msgstr "Vadība"
 
 #: ../src/resources/xviewer-preferences-dialog.ui.h:25
 msgid "Pause and resume with the spacebar"
@@ -353,7 +353,7 @@ msgstr "Pauzēt un atsākt ar atstarpes taustiņu"
 
 #: ../src/resources/xviewer-preferences-dialog.ui.h:26
 msgid "Slideshow"
-msgstr "Slīdrāde"
+msgstr "Slaidrāde"
 
 #: ../src/resources/xviewer-preferences-dialog.ui.h:27
 msgid "Scroll Wheel"
@@ -417,7 +417,7 @@ msgstr "Attēlu skatītājs"
 
 #: ../src/xviewer-close-confirmation-dialog.c:166
 msgid "Close _without Saving"
-msgstr "Aiz_vērt bez saglabāšanas"
+msgstr "Aizvērt _bez saglabāšanas"
 
 #: ../src/xviewer-close-confirmation-dialog.c:178
 #: ../src/xviewer-file-chooser.c:465 ../src/xviewer-window.c:4282
@@ -430,12 +430,12 @@ msgstr "Jautājums"
 
 #: ../src/xviewer-close-confirmation-dialog.c:391
 msgid "If you don't save, your changes will be lost."
-msgstr "Ja nesaglabāsiet, jūsu izmaiņas tiks zaudētas."
+msgstr "Ja nesaglabāsi, tavas izmaiņas tiks zaudētas."
 
 #: ../src/xviewer-close-confirmation-dialog.c:437
 #, c-format
 msgid "Save changes to image \"%s\" before closing?"
-msgstr "Vai pirms aizvēršanas saglabāt izmaiņas attēlā “%s”?"
+msgstr "Vai pirms aizvēršanas saglabāt izmaiņas attēlā \"%s\" ?"
 
 #: ../src/xviewer-close-confirmation-dialog.c:652
 #, c-format
@@ -454,36 +454,36 @@ msgstr[2] ""
 
 #: ../src/xviewer-close-confirmation-dialog.c:669
 msgid "S_elect the images you want to save:"
-msgstr "Izvēli_eties attēlus, kurus vēlaties saglabāt:"
+msgstr "_Izvēlies attēlus, kurus vēlies saglabāt:"
 
 #. Secondary label
 #: ../src/xviewer-close-confirmation-dialog.c:688
 msgid "If you don't save, all your changes will be lost."
-msgstr "Ja nesaglabāsiet, visas jūsu veiktās izmaiņas tiks zaudētas."
+msgstr "Ja nesaglabāsi, visas tavas veiktās izmaiņas tiks zaudētas."
 
 #: ../src/xviewer-error-message-area.c:124 ../src/xviewer-window.c:885
 #: ../src/xviewer-window.c:4342
 msgid "_Reload"
-msgstr "Pā_rlādēt"
+msgstr "_Pārlādēt"
 
 #: ../src/xviewer-error-message-area.c:129 ../src/xviewer-window.c:4288
 msgid "Save _As…"
-msgstr "S_aglabāt kā..."
+msgstr "Saglabāt _kā…"
 
 #: ../src/xviewer-error-message-area.c:171
 #, c-format
 msgid "Could not load image '%s'."
-msgstr "Neizdevās ielādēt attēlu “%s”."
+msgstr "Neizdevās ielādēt attēlu '%s'."
 
 #: ../src/xviewer-error-message-area.c:213
 #, c-format
 msgid "Could not save image '%s'."
-msgstr "Neizdevās saglabāt attēlu “%s”."
+msgstr "Neizdevās saglabāt attēlu '%s'."
 
 #: ../src/xviewer-error-message-area.c:256
 #, c-format
 msgid "No images found in '%s'."
-msgstr "“%s” netika atrasti attēli."
+msgstr "Nav atrasts neviens attēls iekš '%s'."
 
 #: ../src/xviewer-error-message-area.c:263
 msgid "The given locations contain no images."
@@ -556,12 +556,12 @@ msgstr "Dienvidi"
 #. A strftime-formatted string, to display the date the image was taken.
 #: ../src/xviewer-exif-util.c:120 ../src/xviewer-exif-util.c:160
 msgid "%a, %d %B %Y  %X"
-msgstr "%A, %Y. gada %d. %B, %X"
+msgstr "%a, %d %B %Y  %X"
 
 #. A strftime-formatted string, to display the date the image was taken, for the case we don't have the time.
 #: ../src/xviewer-exif-util.c:154
 msgid "%a, %d %B %Y"
-msgstr "%Y. gada %d. %B"
+msgstr "%a, %d %B %Y"
 
 #. TRANSLATORS: This is the actual focal length used when
 #. the image was taken.
@@ -580,20 +580,19 @@ msgstr "%.1f (35mm filmiņa)"
 
 #: ../src/xviewer-file-chooser.c:119
 msgid "File format is unknown or unsupported"
-msgstr "Datnes formāts ir nepazīstams vai neatbalstīts"
+msgstr "Faila formāts nav zināms vai netiek atbalstīts"
 
 #: ../src/xviewer-file-chooser.c:124
 msgid ""
 "Image Viewer could not determine a supported writable file format based on "
 "the filename."
 msgstr ""
-"Attēlu skatītājs nevarēja noteikt ierakstāmās datnes formātu pēc datnes "
-"nosaukuma."
+"Attēlu skatītājs nevarēja noteikt atbalstītu rakstāmu faila formātu, "
+"pamatojoties uz faila nosaukumu."
 
 #: ../src/xviewer-file-chooser.c:125
 msgid "Please try a different file extension like .png or .jpg."
-msgstr ""
-"Lūdzu, mēģiniet lietot citu datnes paplašinājumu, piemēram, .png vai .jpg."
+msgstr "Lūdzu, izmēģini citu faila paplašinājumu, piemēram, .png vai .jpg."
 
 #. Filter name: First description then file extension, eg. "The PNG-Format (*.png)".
 #: ../src/xviewer-file-chooser.c:160
@@ -659,22 +658,22 @@ msgstr "Neizdevās ielādēt attēlu."
 #: ../src/xviewer-image.c:1946 ../src/xviewer-image.c:2066
 #, c-format
 msgid "No image loaded."
-msgstr "Nav ielādētu attēlu."
+msgstr "Attēls nav ielādēts."
 
 #: ../src/xviewer-image.c:1954 ../src/xviewer-image.c:2075
 #, c-format
 msgid "You do not have the permissions necessary to save the file."
-msgstr "Jums nav šīs datnes saglabāšanai nepieciešamo atļauju."
+msgstr "Tev nav nepieciešamo atļauju, lai saglabātu failu."
 
 #: ../src/xviewer-image.c:1964 ../src/xviewer-image.c:2086
 #, c-format
 msgid "Temporary file creation failed."
-msgstr "Neizdevās izveidot pagaidu datni."
+msgstr "Neizdevās izveidot pagaidu failu."
 
 #: ../src/xviewer-image-jpeg.c:430
 #, c-format
 msgid "Couldn't create temporary file for saving: %s"
-msgstr "Neizdevās izveidot pagaidu datni, lai saglabātu — %s"
+msgstr "Neizdevās izveidot pagaidu failu saglabāšanai: %s"
 
 #: ../src/xviewer-image-jpeg.c:449
 #, c-format
@@ -811,7 +810,7 @@ msgstr "kā ir"
 #: ../src/xviewer-statusbar.c:126
 #, c-format
 msgid "%d / %d"
-msgstr "%d. no %d"
+msgstr "%d / %d"
 
 #: ../src/xviewer-thumb-view.c:544
 msgid "Taken on"
@@ -847,7 +846,7 @@ msgstr[2] "%i × %i pikseļu  %s    %i%%"
 #: ../src/xviewer-window.c:887 ../src/xviewer-window.c:2888
 msgctxt "MessageArea"
 msgid "Hi_de"
-msgstr "Slē_pt"
+msgstr "_Slēpt"
 
 #. The newline character is currently necessary due to a problem
 #. * with the automatic line break.
@@ -857,13 +856,13 @@ msgid ""
 "The image \"%s\" has been modified by an external application.\n"
 "Would you like to reload it?"
 msgstr ""
-"Ārēja lietotne ir mainījusi attēlu “%s”.\n"
+"Ārēja lietotne ir mainījusi attēlu \"%s\" .\n"
 "Vai vēlaties to pārlādēt?"
 
 #: ../src/xviewer-window.c:1074
 #, c-format
 msgid "Use \"%s\" to open the selected image"
-msgstr "Lietot “%s”, lai atvērtu izvēlēto attēlu"
+msgstr "Lietot \"%s\" , lai atvērtu izvēlēto attēlu"
 
 #. Translators: This string is displayed in the statusbar
 #. * while saving images. The tokens are from left to right:
@@ -873,12 +872,12 @@ msgstr "Lietot “%s”, lai atvērtu izvēlēto attēlu"
 #: ../src/xviewer-window.c:1230
 #, c-format
 msgid "Saving image \"%s\" (%u/%u)"
-msgstr "Saglabā attēlu “%s” (%u/%u)"
+msgstr "Saglabā attēlu \"%s\" (%u/%u)"
 
 #: ../src/xviewer-window.c:1631
 #, c-format
 msgid "Opening image \"%s\""
-msgstr "Atver attēlu “%s”"
+msgstr "Atver attēlu \"%s\""
 
 #. L10N: This the reason why the screensaver is inhibited.
 #: ../src/xviewer-window.c:2217
@@ -912,12 +911,12 @@ msgid ""
 "The image \"%s\" has been set as Desktop Background.\n"
 "Would you like to modify its appearance?"
 msgstr ""
-"Attēls “%s“ iestatīts kā darbvirsmas fons.\n"
+"Attēls \"%s iestatīts kā darbvirsmas fons.\n"
 "Vai vēlaties mainīt tā izskatu?"
 
 #: ../src/xviewer-window.c:3369
 msgid "Saving image locally…"
-msgstr "Saglabā attēlu lokāli..."
+msgstr "Saglabā attēlu lokāli…"
 
 #: ../src/xviewer-window.c:3448
 #, c-format
@@ -925,8 +924,8 @@ msgid ""
 "Are you sure you want to remove\n"
 "\"%s\" permanently?"
 msgstr ""
-"Vai tiešām vēlaties pavisam\n"
-"izdzēst “%s”?"
+"Vai tiešām vēlaties noņemt\n"
+"\"%s\" pilnībā?"
 
 #: ../src/xviewer-window.c:3451
 #, c-format
@@ -937,14 +936,14 @@ msgid_plural ""
 "Are you sure you want to remove\n"
 "the %d selected images permanently?"
 msgstr[0] ""
-"Vai tiešām vēlaties pavisam\n"
-"izdzēst %d izvēlēto attēlu?"
+"Vai tiešām tu vēlies noņemt\n"
+"atlasīto attēlu pilnībā?"
 msgstr[1] ""
-"Vai tiešām vēlaties pavisam\n"
-"izdzēst %d izvēlētos attēlus?"
+"Vai tiešām tu vēlies noņemt\n"
+"visus %d atlasītos attēlus pilnībā?"
 msgstr[2] ""
-"Vai tiešām vēlaties pavisam\n"
-"izdzēst %d izvēlēto attēlu?"
+"Vai tiešām tu vēlies noņemt\n"
+"visus %d atlasītos attēlus pilnībā?"
 
 #: ../src/xviewer-window.c:3473 ../src/xviewer-window.c:3754
 msgid "_Delete"
@@ -986,8 +985,8 @@ msgid ""
 "Are you sure you want to move\n"
 "\"%s\" to the trash?"
 msgstr ""
-"Vai tiešām vēlaties pārvietot\n"
-"“%s” uz miskasti?"
+"Vai tiešām vēlies pārvietot\n"
+"\"%s\" uz atkritni?"
 
 #: ../src/xviewer-window.c:3719
 #, c-format
@@ -995,8 +994,7 @@ msgid ""
 "A trash for \"%s\" couldn't be found. Do you want to remove this image "
 "permanently?"
 msgstr ""
-"Neizdevās atrast miskasti attēlam “%s”. Vai vēlaties dzēst šo attēlu "
-"neatgriezeniski?"
+"Nevarēja atrast \"%s\" atkritni. Vai vēlies neatgriezeniski noņemt šo attēlu?"
 
 #: ../src/xviewer-window.c:3724
 #, c-format
@@ -1007,11 +1005,11 @@ msgid_plural ""
 "Are you sure you want to move\n"
 "the %d selected images to the trash?"
 msgstr[0] ""
-"Vai tiešām vēlaties pārvietot\n"
-"%d izvēlēto attēlu uz miskasti?"
+"Vai tiešām vēlies pārvietot\n"
+"%d izvēlēto attēlu uz atkritni?"
 msgstr[1] ""
-"Vai tiešām vēlaties pārvietot\n"
-"%d izvēlētos attēlus uz miskasti?"
+"Vai tiešām vēlies pārvietot\n"
+"%d izvēlētos attēlus uz atkritni?"
 msgstr[2] ""
 "Vai tiešām vēlaties pārvietot\n"
 "%d izvēlēto attēlu uz miskasti?"
@@ -1021,18 +1019,18 @@ msgid ""
 "Some of the selected images can't be moved to the trash and will be removed "
 "permanently. Are you sure you want to proceed?"
 msgstr ""
-"Dažus no izvēlētajiem attēliem nevar pārvietoti uz miskasti, tos var tikai "
-"neatgriezeniski dzēst. Vai vēlaties turpināt?"
+"Dažus no izvēlētajām attēliem nevar pārvietot uz atkritni un tie tiks "
+"neatgriezeniski izdzēsti. Vai esi pārliecināts, ka vēlies turpināt?"
 
 #: ../src/xviewer-window.c:3746 ../src/xviewer-window.c:4318
 #: ../src/xviewer-window.c:4357
 msgid "Move to _Trash"
-msgstr "Pārvie_tot uz miskasti"
+msgstr "Pārvietot uz _atkritni"
 
 #: ../src/xviewer-window.c:3793 ../src/xviewer-window.c:3807
 #, c-format
 msgid "Couldn't access trash."
-msgstr "Neizdevās piekļūt miskastei."
+msgstr "Neizdevās piekļūt atkritnei."
 
 #: ../src/xviewer-window.c:4240
 msgid "_File"
@@ -1040,7 +1038,7 @@ msgstr "_Fails"
 
 #: ../src/xviewer-window.c:4241
 msgid "_Edit"
-msgstr "R_ediģēt"
+msgstr "_Rediģēt"
 
 #: ../src/xviewer-window.c:4243
 msgid "_Go"
@@ -1060,11 +1058,11 @@ msgstr "_Pēdējie"
 
 #: ../src/xviewer-window.c:4249
 msgid "_Open…"
-msgstr "_Atvērt..."
+msgstr "_Atvērt…"
 
 #: ../src/xviewer-window.c:4250
 msgid "Open a file"
-msgstr "Atvērt datni"
+msgstr "Atvērt failu"
 
 #: ../src/xviewer-window.c:4253
 msgid "Close window"
@@ -1072,7 +1070,7 @@ msgstr "Aizvērt logu"
 
 #: ../src/xviewer-window.c:4256
 msgid "Preferences for Image Viewer"
-msgstr "Attēla skatītāja iestatījumi"
+msgstr "Attēlu skatītāja iestatījumi"
 
 #: ../src/xviewer-window.c:4258
 msgid "_Contents"
@@ -1125,7 +1123,7 @@ msgstr "Rādīt saturošo _mapi"
 
 #: ../src/xviewer-window.c:4294
 msgid "_Print…"
-msgstr "_Drukāt..."
+msgstr "_Drukāt…"
 
 #: ../src/xviewer-window.c:4295
 msgid "Print the selected image"
@@ -1165,7 +1163,7 @@ msgstr "Atspoguļot attēlu vertikāli"
 
 #: ../src/xviewer-window.c:4309
 msgid "_Rotate Clockwise"
-msgstr "Pag_riezt pulksteņrādītāja virzienā"
+msgstr "_Pagriezt pulksteņrādītāja virzienā"
 
 #: ../src/xviewer-window.c:4310
 msgid "Rotate the image 90 degrees to the right"
@@ -1173,7 +1171,7 @@ msgstr "Pagriezt attēlu 90 grādus pa labi"
 
 #: ../src/xviewer-window.c:4312
 msgid "Rotate Counterc_lockwise"
-msgstr "Pagriezt pretēji pu_lksteņrādītāja virzienam"
+msgstr "Pagriezt pretēji _pulksteņrādītāja virzienam"
 
 #: ../src/xviewer-window.c:4313
 msgid "Rotate the image 90 degrees to the left"
@@ -1185,11 +1183,11 @@ msgstr "Iestatīt kā _fonu"
 
 #: ../src/xviewer-window.c:4316
 msgid "Set the selected image as the wallpaper"
-msgstr "Iestatīt izvēlēto attēlu kā darbvirsmas fonu"
+msgstr "Iestatīt atlasīto attēlu kā fona attēlu"
 
 #: ../src/xviewer-window.c:4319
 msgid "Move the selected image to the trash folder"
-msgstr "Pārvietot izvēlēto attēlu uz miskasti"
+msgstr "Pārvietot atlasīto attēlu uz atkritnes mapi"
 
 #: ../src/xviewer-window.c:4321
 msgid "_Delete Image"
@@ -1218,7 +1216,7 @@ msgstr "Palielināt attēlu"
 
 #: ../src/xviewer-window.c:4330 ../src/xviewer-window.c:4351
 msgid "Zoom _Out"
-msgstr "Tā_lināt"
+msgstr "_Tālināt"
 
 #: ../src/xviewer-window.c:4331 ../src/xviewer-window.c:4349
 #: ../src/xviewer-window.c:4352
@@ -1255,7 +1253,7 @@ msgstr "Atkārtoti ielādēt attēlu"
 
 #: ../src/xviewer-window.c:4363
 msgid "_Fullscreen"
-msgstr "Pa visu _ekrānu"
+msgstr "_Pilnekrāns"
 
 #: ../src/xviewer-window.c:4364
 msgid "Show the current image in fullscreen mode"
@@ -1271,7 +1269,7 @@ msgstr "Pauzēt vai atsākt slaidrādi"
 
 #: ../src/xviewer-window.c:4369
 msgid "_Best Fit"
-msgstr "La_bākā saderība"
+msgstr "_Labākā saderība"
 
 #: ../src/xviewer-window.c:4370
 msgid "Fit the image to the window"
@@ -1279,7 +1277,7 @@ msgstr "Ietilpināt attēlu logā"
 
 #: ../src/xviewer-window.c:4375 ../src/xviewer-window.c:4390
 msgid "_Previous Image"
-msgstr "Ie_priekšējais attēls"
+msgstr "_Iepriekšējais attēls"
 
 #: ../src/xviewer-window.c:4376
 msgid "Go to the previous image of the gallery"
@@ -1303,7 +1301,7 @@ msgstr "Pāriet uz pirmo galerijas attēlu"
 
 #: ../src/xviewer-window.c:4384 ../src/xviewer-window.c:4396
 msgid "_Last Image"
-msgstr "Pēdējais attē_ls"
+msgstr "_Pēdējais attēls"
 
 #: ../src/xviewer-window.c:4385
 msgid "Go to the last image of the gallery"
@@ -1311,7 +1309,7 @@ msgstr "Pāriet uz pēdējo galerijas attēlu"
 
 #: ../src/xviewer-window.c:4387
 msgid "_Random Image"
-msgstr "Ne_jauši izvēlēts attēls"
+msgstr "_Nejaušs attēls"
 
 #: ../src/xviewer-window.c:4388
 msgid "Go to a random image of the gallery"
@@ -1319,7 +1317,7 @@ msgstr "Iet uz kādu nejaušu galerijas attēlu"
 
 #: ../src/xviewer-window.c:4546
 msgid "S_lideshow"
-msgstr "S_laidrāde"
+msgstr "_Slaidrāde"
 
 #: ../src/xviewer-window.c:4547
 msgid "Start a slideshow view of the images"
@@ -1376,7 +1374,7 @@ msgstr "Galerija"
 #: ../src/xviewer-window.c:4675
 msgctxt "action (to trash)"
 msgid "Trash"
-msgstr "Miskaste"
+msgstr "Atkritne"
 
 #: ../src/main.c:63
 msgid "Open in fullscreen mode"
@@ -1412,5 +1410,4 @@ msgstr "[DATNE...]"
 #, c-format
 msgid "Run '%s --help' to see a full list of available command line options."
 msgstr ""
-"Palaidiet '%s --help', lai redzētu pilnu pieejamo komandrindas opciju "
-"sarakstu."
+"Palaid '%s --help', lai redzētu pilnu pieejamo komandrindas opciju sarakstu."
