@@ -34,19 +34,28 @@ gnome = import('gnome')
 i18n = import('i18n')
 pkgconfig = import('pkgconfig')
 
+cc = meson.get_compiler('c')
+
 # dependencies
 gio_unix = dependency('gio-unix-2.0', version: '>= 2.38.0')
 glib = dependency('glib-2.0', version: '>= 2.38.0')
 gtk = dependency('gtk+-3.0')
 libpeas = dependency('libpeas-1.0', version: '>= 0.7.4')
 libpeas_gtk = dependency('libpeas-gtk-1.0', version: '>= 0.7.4')
+
+use_gir20 = cc.has_header('girepository/girepository.h', dependencies: libpeas)
+if use_gir20
+    gi = dependency('girepository-2.0')
+else
+    gi = dependency('gobject-introspection-1.0', version: '>= 0.9.2')
+endif
+xviewer_conf.set10('USE_GIR20', use_gir20)
+
 pixbuf = dependency('gdk-pixbuf-2.0', version: '>= 2.19.1')
 X11 = dependency('x11')
 zlib = dependency('zlib')
 cinnamon_desktop = dependency('cinnamon-desktop', version: '>= 3.2.0')
 xapp = dependency('xapp', version: '>= 2.5.0')
-
-cc = meson.get_compiler('c')
 
 # on some systems we need to find the math lib to make sure it builds
 math = cc.find_library('m', required: false)
